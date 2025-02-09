@@ -1,0 +1,8 @@
+- Git
+- Docker
+- CI/CD
+- Postman
+- Swagger
+-Fiddler
+- Grafana
+- Figma
